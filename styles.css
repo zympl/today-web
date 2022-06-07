@@ -1,5 +1,6 @@
 body {
     margin: 0%;
+    font-family: 'Rubik', sans-serif;
     --header-height: 80px;
     --primary-color: #FFFFFF;
     --bg-color: #D0D0D0;
@@ -15,11 +16,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.title-head {
-    background-color: black;
-    color: var(--primary-color)
 }
 
 .center-section {
